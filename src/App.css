@@ -1,0 +1,85 @@
+.hanalei-regular {
+    font-family: "Hanalei", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lacquer-regular {
+    font-family: "Lacquer", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.container{
+    height: 80vh;
+    cursor:cell;
+}
+
+body{
+    background-color: black;
+}
+
+.guessmovie{
+    text-align: center;
+    font-family: "Hanalei", system-ui;
+    font-weight: 90;
+    font-size: 100px;
+    color: rgb(237, 250, 0);
+    margin-bottom: 10px;
+
+}
+
+.vida{
+    text-align: center;
+    color: white;
+    font-family: "Lacquer", system-ui;
+
+}
+
+.correcto{
+    text-align: center;
+    color: white;
+    font-family: "Lacquer", system-ui;
+}
+
+.emoji{
+    text-align: center;
+}
+
+.ingresapeli{
+    font-family: "Lacquer", system-ui;
+    border-radius: 30px;
+    text-align: center;
+    padding: 5px;
+    border-style: double;
+    border-width: 7px;
+    margin-top: -15px;
+    border-color: rgb(48, 226, 84);
+    width: 300px;
+    cursor:cell;
+
+}
+
+.enviar{
+    font-family: "Lacquer", system-ui;
+    font-size: 15px;
+    border-radius: 30px;
+    text-align: center;
+    padding: 7px;
+    border-style: double;
+    border-width: 7px;
+    border-color: rgb(48, 226, 84);
+    background-color: rgb(48, 226, 84);
+    color: white;
+    width: 100px;
+    margin-top: -13px;
+    margin-left: 20px;
+
+}
+
+.barraboton{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
